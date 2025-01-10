@@ -1,4 +1,4 @@
-# Not Your Simple Todo :wink:
+# Task Hive :wink:
 
 This project is developed using Spring Boot for the backend and Vite in React for the frontend. It provides a comprehensive set of functionalities for managing TODOs. 
 
